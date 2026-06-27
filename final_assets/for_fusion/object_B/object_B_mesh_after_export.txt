@@ -1,0 +1,2 @@
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-060225/save/it15000-export/model.mtl
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-060225/save/it15000-export/model.obj

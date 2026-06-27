@@ -1,0 +1,198 @@
+[
+  {
+    "model": "repair_v2_c_none",
+    "point_cloud": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/final_ABC_repair_v2/repair_v2_c_none/point_cloud/iteration_30000/point_cloud.ply",
+    "points": 4327130,
+    "A": {
+      "source": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_local_search_known_anchor/center_s026/point_cloud/iteration_30000/point_cloud.ply",
+      "scale_up": 1.35,
+      "extra_lift": 0.22,
+      "extra_xy": [
+        -0.05000000074505806,
+        0.0
+      ],
+      "pivot": [
+        -0.17198234796524048,
+        1.461328148841858,
+        1.171809196472168
+      ]
+    },
+    "B": {
+      "scale": 0.45114195770554905,
+      "dims": [
+        0.4403833746910095,
+        0.43842774629592896,
+        0.4433194398880005
+      ],
+      "anchor": [
+        0.12801764905452728,
+        1.3213281631469727,
+        1.1010363101959229
+      ],
+      "lift": 0.13,
+      "rot_mode": "none"
+    },
+    "C": {
+      "scale": 0.3126215130603563,
+      "dims": [
+        0.6339175701141357,
+        1.0875771045684814,
+        1.0011579990386963
+      ],
+      "anchor": [
+        0.24801762402057648,
+        1.6013281345367432,
+        1.1010363101959229
+      ],
+      "lift": 0.18,
+      "rot_mode": "none"
+    }
+  },
+  {
+    "model": "repair_v2_c_rx90",
+    "point_cloud": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/final_ABC_repair_v2/repair_v2_c_rx90/point_cloud/iteration_30000/point_cloud.ply",
+    "points": 4327130,
+    "A": {
+      "source": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_local_search_known_anchor/center_s026/point_cloud/iteration_30000/point_cloud.ply",
+      "scale_up": 1.35,
+      "extra_lift": 0.22,
+      "extra_xy": [
+        -0.05000000074505806,
+        0.0
+      ],
+      "pivot": [
+        -0.17198234796524048,
+        1.461328148841858,
+        1.171809196472168
+      ]
+    },
+    "B": {
+      "scale": 0.45114195770554905,
+      "dims": [
+        0.4403833746910095,
+        0.43842774629592896,
+        0.4433194398880005
+      ],
+      "anchor": [
+        0.12801764905452728,
+        1.3213281631469727,
+        1.1010363101959229
+      ],
+      "lift": 0.13,
+      "rot_mode": "none"
+    },
+    "C": {
+      "scale": 0.3126215130603563,
+      "dims": [
+        0.6339175701141357,
+        1.0011579990386963,
+        1.0875771045684814
+      ],
+      "anchor": [
+        0.24801762402057648,
+        1.6013281345367432,
+        1.1010363101959229
+      ],
+      "lift": 0.18,
+      "rot_mode": "rx90"
+    }
+  },
+  {
+    "model": "repair_v2_c_rxm90",
+    "point_cloud": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/final_ABC_repair_v2/repair_v2_c_rxm90/point_cloud/iteration_30000/point_cloud.ply",
+    "points": 4327130,
+    "A": {
+      "source": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_local_search_known_anchor/center_s026/point_cloud/iteration_30000/point_cloud.ply",
+      "scale_up": 1.35,
+      "extra_lift": 0.22,
+      "extra_xy": [
+        -0.05000000074505806,
+        0.0
+      ],
+      "pivot": [
+        -0.17198234796524048,
+        1.461328148841858,
+        1.171809196472168
+      ]
+    },
+    "B": {
+      "scale": 0.45114195770554905,
+      "dims": [
+        0.4403833746910095,
+        0.43842774629592896,
+        0.4433194398880005
+      ],
+      "anchor": [
+        0.12801764905452728,
+        1.3213281631469727,
+        1.1010363101959229
+      ],
+      "lift": 0.13,
+      "rot_mode": "none"
+    },
+    "C": {
+      "scale": 0.3126215130603563,
+      "dims": [
+        0.6339175701141357,
+        1.0011579990386963,
+        1.0875771045684814
+      ],
+      "anchor": [
+        0.24801762402057648,
+        1.6013281345367432,
+        1.1010363101959229
+      ],
+      "lift": 0.18,
+      "rot_mode": "rxm90"
+    }
+  },
+  {
+    "model": "repair_v2_c_flipz",
+    "point_cloud": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/final_ABC_repair_v2/repair_v2_c_flipz/point_cloud/iteration_30000/point_cloud.ply",
+    "points": 4327130,
+    "A": {
+      "source": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_local_search_known_anchor/center_s026/point_cloud/iteration_30000/point_cloud.ply",
+      "scale_up": 1.35,
+      "extra_lift": 0.22,
+      "extra_xy": [
+        -0.05000000074505806,
+        0.0
+      ],
+      "pivot": [
+        -0.17198234796524048,
+        1.461328148841858,
+        1.171809196472168
+      ]
+    },
+    "B": {
+      "scale": 0.45114195770554905,
+      "dims": [
+        0.4403833746910095,
+        0.43842774629592896,
+        0.4433194398880005
+      ],
+      "anchor": [
+        0.12801764905452728,
+        1.3213281631469727,
+        1.1010363101959229
+      ],
+      "lift": 0.13,
+      "rot_mode": "none"
+    },
+    "C": {
+      "scale": 0.3126215130603563,
+      "dims": [
+        0.6339175701141357,
+        1.0875771045684814,
+        1.0011579990386963
+      ],
+      "anchor": [
+        0.24801762402057648,
+        1.6013281345367432,
+        1.1010363101959229
+      ],
+      "lift": 0.18,
+      "rot_mode": "flipz"
+    }
+  }
+]

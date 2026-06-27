@@ -1,0 +1,314 @@
+[
+  {
+    "tag": "left_mid_s018_l020",
+    "anchor": "left_mid",
+    "size": 0.18,
+    "lift": 0.02,
+    "target_xyz": [
+      1.5397554636001587,
+      3.706939458847046,
+      -0.13159702718257904
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/left_mid_s018_l020",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "left_mid_s018_l040",
+    "anchor": "left_mid",
+    "size": 0.18,
+    "lift": 0.04,
+    "target_xyz": [
+      1.5397554636001587,
+      3.706939458847046,
+      -0.13159702718257904
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/left_mid_s018_l040",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "left_mid_s022_l020",
+    "anchor": "left_mid",
+    "size": 0.22,
+    "lift": 0.02,
+    "target_xyz": [
+      1.5397554636001587,
+      3.706939458847046,
+      -0.13159702718257904
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/left_mid_s022_l020",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "left_mid_s022_l040",
+    "anchor": "left_mid",
+    "size": 0.22,
+    "lift": 0.04,
+    "target_xyz": [
+      1.5397554636001587,
+      3.706939458847046,
+      -0.13159702718257904
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/left_mid_s022_l040",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "left_mid_s026_l020",
+    "anchor": "left_mid",
+    "size": 0.26,
+    "lift": 0.02,
+    "target_xyz": [
+      1.5397554636001587,
+      3.706939458847046,
+      -0.13159702718257904
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/left_mid_s026_l020",
+    "scale": 0.08423417448628864
+  },
+  {
+    "tag": "left_mid_s026_l040",
+    "anchor": "left_mid",
+    "size": 0.26,
+    "lift": 0.04,
+    "target_xyz": [
+      1.5397554636001587,
+      3.706939458847046,
+      -0.13159702718257904
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/left_mid_s026_l040",
+    "scale": 0.08423417448628864
+  },
+  {
+    "tag": "front_mid_s018_l020",
+    "anchor": "front_mid",
+    "size": 0.18,
+    "lift": 0.02,
+    "target_xyz": [
+      0.3225882649421692,
+      1.1876938343048096,
+      1.5544618368148804
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/front_mid_s018_l020",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "front_mid_s018_l040",
+    "anchor": "front_mid",
+    "size": 0.18,
+    "lift": 0.04,
+    "target_xyz": [
+      0.3225882649421692,
+      1.1876938343048096,
+      1.5544618368148804
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/front_mid_s018_l040",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "front_mid_s022_l020",
+    "anchor": "front_mid",
+    "size": 0.22,
+    "lift": 0.02,
+    "target_xyz": [
+      0.3225882649421692,
+      1.1876938343048096,
+      1.5544618368148804
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/front_mid_s022_l020",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "front_mid_s022_l040",
+    "anchor": "front_mid",
+    "size": 0.22,
+    "lift": 0.04,
+    "target_xyz": [
+      0.3225882649421692,
+      1.1876938343048096,
+      1.5544618368148804
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/front_mid_s022_l040",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "front_mid_s026_l020",
+    "anchor": "front_mid",
+    "size": 0.26,
+    "lift": 0.02,
+    "target_xyz": [
+      0.3225882649421692,
+      1.1876938343048096,
+      1.5544618368148804
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/front_mid_s026_l020",
+    "scale": 0.08423417448628864
+  },
+  {
+    "tag": "front_mid_s026_l040",
+    "anchor": "front_mid",
+    "size": 0.26,
+    "lift": 0.04,
+    "target_xyz": [
+      0.3225882649421692,
+      1.1876938343048096,
+      1.5544618368148804
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/front_mid_s026_l040",
+    "scale": 0.08423417448628864
+  },
+  {
+    "tag": "right_front_s018_l020",
+    "anchor": "right_front",
+    "size": 0.18,
+    "lift": 0.02,
+    "target_xyz": [
+      0.14096663892269135,
+      1.215382695198059,
+      1.490691065788269
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_front_s018_l020",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "right_front_s018_l040",
+    "anchor": "right_front",
+    "size": 0.18,
+    "lift": 0.04,
+    "target_xyz": [
+      0.14096663892269135,
+      1.215382695198059,
+      1.490691065788269
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_front_s018_l040",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "right_front_s022_l020",
+    "anchor": "right_front",
+    "size": 0.22,
+    "lift": 0.02,
+    "target_xyz": [
+      0.14096663892269135,
+      1.215382695198059,
+      1.490691065788269
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_front_s022_l020",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "right_front_s022_l040",
+    "anchor": "right_front",
+    "size": 0.22,
+    "lift": 0.04,
+    "target_xyz": [
+      0.14096663892269135,
+      1.215382695198059,
+      1.490691065788269
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_front_s022_l040",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "right_front_s026_l020",
+    "anchor": "right_front",
+    "size": 0.26,
+    "lift": 0.02,
+    "target_xyz": [
+      0.14096663892269135,
+      1.215382695198059,
+      1.490691065788269
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_front_s026_l020",
+    "scale": 0.08423417448628864
+  },
+  {
+    "tag": "right_front_s026_l040",
+    "anchor": "right_front",
+    "size": 0.26,
+    "lift": 0.04,
+    "target_xyz": [
+      0.14096663892269135,
+      1.215382695198059,
+      1.490691065788269
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_front_s026_l040",
+    "scale": 0.08423417448628864
+  },
+  {
+    "tag": "right_mid_s018_l020",
+    "anchor": "right_mid",
+    "size": 0.18,
+    "lift": 0.02,
+    "target_xyz": [
+      0.7460072040557861,
+      3.733895778656006,
+      -0.2333684116601944
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_mid_s018_l020",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "right_mid_s018_l040",
+    "anchor": "right_mid",
+    "size": 0.18,
+    "lift": 0.04,
+    "target_xyz": [
+      0.7460072040557861,
+      3.733895778656006,
+      -0.2333684116601944
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_mid_s018_l040",
+    "scale": 0.05831596695204598
+  },
+  {
+    "tag": "right_mid_s022_l020",
+    "anchor": "right_mid",
+    "size": 0.22,
+    "lift": 0.02,
+    "target_xyz": [
+      0.7460072040557861,
+      3.733895778656006,
+      -0.2333684116601944
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_mid_s022_l020",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "right_mid_s022_l040",
+    "anchor": "right_mid",
+    "size": 0.22,
+    "lift": 0.04,
+    "target_xyz": [
+      0.7460072040557861,
+      3.733895778656006,
+      -0.2333684116601944
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_mid_s022_l040",
+    "scale": 0.07127507071916732
+  },
+  {
+    "tag": "right_mid_s026_l020",
+    "anchor": "right_mid",
+    "size": 0.26,
+    "lift": 0.02,
+    "target_xyz": [
+      0.7460072040557861,
+      3.733895778656006,
+      -0.2333684116601944
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_mid_s026_l020",
+    "scale": 0.08423417448628864
+  },
+  {
+    "tag": "right_mid_s026_l040",
+    "anchor": "right_mid",
+    "size": 0.26,
+    "lift": 0.04,
+    "target_xyz": [
+      0.7460072040557861,
+      3.733895778656006,
+      -0.2333684116601944
+    ],
+    "model_dir": "/mnt/data/disk3/zhouyu/projects/gs_aigc_scene_fusion/outputs/fusion_scene/A_table_search_long/right_mid_s026_l040",
+    "scale": 0.08423417448628864
+  }
+]

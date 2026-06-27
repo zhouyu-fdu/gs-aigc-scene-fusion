@@ -1,0 +1,2 @@
+outputs/object_C_image3d_export/object_C_cup_bear_export/mesh_export_gpu1@20260622-043602/save/it5000-export/model.mtl
+outputs/object_C_image3d_export/object_C_cup_bear_export/mesh_export_gpu1@20260622-043602/save/it5000-export/model.obj

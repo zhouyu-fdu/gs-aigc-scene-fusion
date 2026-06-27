@@ -1,0 +1,10 @@
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-040102/ckpts/epoch=0-step=6000.ckpt
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-040102/ckpts/last.ckpt
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-050420/ckpts/epoch=0-step=10000.ckpt
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-050420/ckpts/last.ckpt
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-060225/ckpts/epoch=0-step=15000.ckpt
+outputs/object_B_text3d/dreamfusion_sd/red_apple_sd_seed42_6000_gpu0@20260621-060225/ckpts/last.ckpt
+outputs/object_B_text3d/dreamfusion_sd/soccer_ball_sd_seed42_3000_gpu0@20260621-033402/ckpts/epoch=0-step=3000.ckpt
+outputs/object_B_text3d/dreamfusion_sd/soccer_ball_sd_seed42_3000_gpu0@20260621-033402/ckpts/last.ckpt
+outputs/object_B_text3d/dreamfusion_sd/toy_robot_sd_seed42_3000_gpu0_safe_nofreq@20260620-100815/ckpts/epoch=0-step=3000.ckpt
+outputs/object_B_text3d/dreamfusion_sd/toy_robot_sd_seed42_3000_gpu0_safe_nofreq@20260620-100815/ckpts/last.ckpt

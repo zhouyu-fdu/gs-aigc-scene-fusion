@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+nohup.out
+*.out
+
+# Large outputs
+outputs/
+work_dirs/
+runs/
+tmp/
+.cache/
+
+# Datasets
+data/
+datasets/
+
+# Large 3D / video / checkpoints
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+*.ply
+*.obj
+*.glb
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Allow final report figures if needed
+!figures/
+!figures/*.png
+!figures/*.jpg
+!figures/*.jpeg
+!figures/*.pdf
+
+# Allow report files
+!*.tex
+!*.pdf
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

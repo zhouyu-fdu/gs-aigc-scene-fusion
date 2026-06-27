@@ -1,0 +1,6 @@
+COLMAP sparse reconstruction
+
+Input frames: 105
+Registered images: 79
+Sparse points: 4429
+Mean reprojection error: 1.109 px
