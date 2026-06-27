@@ -26,27 +26,23 @@ Recommended uploaded structure:
 gs-aigc-scene-fusion/
 ├── README.md
 ├── .gitignore
-├── report/
-│   ├── 空间智能_期末报告.pdf
-│   └── 空间智能_期末报告.tex
+├── docs/
+│   └── EXPERIMENT_LOG.md
 ├── figures/
 │   ├── p1_2_object_A_three_panel.png
 │   ├── p1_3_object_B_red_apple_steps_3x3.png
 │   ├── p1_4_object_C_zero123_result.png
 │   ├── p1_5_garden_background_3dgs.png
 │   └── p1_6_fusion_coordinate_and_rendering.jpg
-├── scripts/
-│   ├── make_p1_2_object_A_three_panel.sh
-│   ├── make_p1_3_object_B_3x3.sh
-│   ├── make_p1_4_object_C_figure.sh
-│   ├── make_p1_5_garden_background.sh
-│   ├── convert_obj_to_gaussian_ply.py
-│   ├── fuse_ABC_apple_table_cups_ground.py
-│   └── make_ground_cups_sheet.py
-├── configs/
-│   └── example_config_notes.md
-└── docs/
-    └── asset_paths.md
+├── report/
+└── scripts/
+    ├── convert_obj_to_gaussian_ply.py
+    ├── fuse_ABC_apple_table_cups_ground.py
+    ├── make_ground_cups_sheet.py
+    ├── make_p1_2_object_A_three_panel.sh
+    ├── make_p1_3_object_B_3x3.sh
+    ├── make_p1_4_object_C_figure.sh
+    └── make_p1_5_garden_background.sh
 ```
 
 The following local directories were used during experiments but are **not uploaded** to GitHub:
